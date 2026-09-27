@@ -6,6 +6,7 @@
 ## SavedVariables: STHLUSettings
 ## RequiredDeps: RGX-Framework
 ## Notes:  Play a Sonic The Hedgehog-inspired level-up sound!  |n|r  |cff022ced/sthlu -|r Open help  |n|r   |cff022cedBy DonnieDice|r
+## X-Localizations: enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/RGXMods/SonicTheHedgehogLevelUp
