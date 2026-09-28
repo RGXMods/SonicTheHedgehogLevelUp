@@ -9,7 +9,7 @@ local RGX = assert(_G.RGXFramework, "STHLU: RGX-Framework not loaded")
 
 STHLU = STHLU or {}
 
-local ADDON_VERSION = "2.0.2"
+local ADDON_VERSION = "2.0.4"
 local ADDON_NAME = "SonicTheHedgehogLevelUp"
 local PREFIX = "|Tinterface/addons/SonicTheHedgehogLevelUp/media/icon:16:16|t - |cffffffff[|r|cff1e3ce1STHLU|r|cffffffff]|r "
 local TITLE = "|Tinterface/addons/SonicTheHedgehogLevelUp/media/icon:18:18|t [|cff1e3ce1S|r|cffffffffonic The Hedgehog|r |cff1e3ce1L|r|cffffffffevel|r |cff1e3ce1U|r|cff1e3ce1p|r|cff1e3ce1!|r]"
