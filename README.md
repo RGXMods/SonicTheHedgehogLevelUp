@@ -31,6 +31,7 @@ Existing standalone users may continue to use this repository as-is, but new ins
 - Persists enablement and sound-variant choices in `STHLUSettings`.
 - Shows a welcome message on login while that saved preference remains enabled.
 - Includes a test command for checking playback immediately.
+- Ships full chat and welcome text in all 12 WoW client languages: enUS (base), deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, and zhTW. Unlisted client languages fall back to the English (enUS) text.
 
 STHLU does not alter leveling, experience gains, UI frames, or game data. It only handles the sound associated with the player's level-up event.
 
