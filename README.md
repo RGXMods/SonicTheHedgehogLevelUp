@@ -1,4 +1,4 @@
-# <span style="color: #1e3ce1;">🔷 </span> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #1e3ce1;">| </span> <span style="color: #1e3ce1;">S</span><span style="color: #ffffff;">onic </span><span style="color: #1e3ce1;">T</span><span style="color: #ffffff;">he </span><span style="color: #1e3ce1;">H</span><span style="color: #ffffff;">edgehog </span><span style="color: #1e3ce1;">L</span><span style="color: #ffffff;">evel-</span><span style="color: #1e3ce1;">U</span><span style="color: #ffffff;">p</span><span style="color: #1e3ce1;">!</span>
+# <span style="color: #1e3ce1;"></span> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #1e3ce1;">| </span> <span style="color: #1e3ce1;">S</span><span style="color: #ffffff;">onic </span><span style="color: #1e3ce1;">T</span><span style="color: #ffffff;">he </span><span style="color: #1e3ce1;">H</span><span style="color: #ffffff;">edgehog </span><span style="color: #1e3ce1;">L</span><span style="color: #ffffff;">evel-</span><span style="color: #1e3ce1;">U</span><span style="color: #ffffff;">p</span><span style="color: #1e3ce1;">!</span>
 
 ![STHLU Logo](media/logo.png)
 
@@ -6,7 +6,7 @@
 
 ***
 
-## <span style="color: #1e3ce1;">🎯 Overview</span>
+## <span style="color: #1e3ce1;">Overview</span>
 
 **Sonic The Hedgehog Level-Up! (STHLU)** replaces World of Warcraft's configured default level-up sound with a Sonic-inspired "LEVEL COMPLETE!" chime whenever the player gains a level. It is a small, automatic sound addon built on RGX-Framework.
 
@@ -14,7 +14,7 @@
 
 ***
 
-## <span style="color: #1e3ce1;">⚠️ Deprecation Notice</span>
+## <span style="color: #1e3ce1;">Deprecation Notice</span>
 
 <span style="color: #ff6b6b;">**This addon is no longer receiving updates.**</span> Its functionality and Sonic The Hedgehog sound are available in [BLU | Better Level Up!](https://www.curseforge.com/wow/addons/blu-better-level-up) and [BLU Classic | Better Level Up!](https://www.curseforge.com/wow/addons/blu-classic), which combine this sound with a larger sound collection.
 
@@ -22,7 +22,7 @@ Existing standalone users may continue to use this repository as-is, but new ins
 
 ***
 
-## <span style="color: #1e3ce1;">✨ Behavior and Features</span>
+## <span style="color: #1e3ce1;">Behavior and Features</span>
 
 - Plays the selected Sonic The Hedgehog-inspired sound on `PLAYER_LEVEL_UP`.
 - Provides high, medium, and low OGG variants; medium is selected by default.
@@ -37,7 +37,7 @@ STHLU does not alter leveling, experience gains, UI frames, or game data. It onl
 
 ***
 
-## <span style="color: #1e3ce1;">🎮 Requirements and Compatibility</span>
+## <span style="color: #1e3ce1;">Requirements and Compatibility</span>
 
 `RGX-Framework` is a required dependency and must be installed and enabled. The current TOCs declare these game interfaces:
 
@@ -55,7 +55,7 @@ These values describe the current release metadata. The addon is deprecated, so 
 
 ***
 
-## <span style="color: #1e3ce1;">📥 Installation</span>
+## <span style="color: #1e3ce1;">Installation</span>
 
 1. Download a packaged release of SonicTheHedgehogLevelUp and install RGX-Framework.
 2. Extract both addon folders into the WoW client's `Interface/AddOns` directory.
@@ -66,7 +66,7 @@ For the consolidated replacement, install BLU or BLU Classic instead of the stan
 
 ***
 
-## <span style="color: #1e3ce1;">⌨️ Usage and Configuration</span>
+## <span style="color: #1e3ce1;">⌨Usage and Configuration</span>
 
 STHLU works automatically once enabled. It has no graphical configuration panel; use `/sthlu` commands in chat:
 
@@ -84,7 +84,7 @@ The initial defaults are enabled, medium quality, Master-channel playback, defau
 
 ***
 
-## <span style="color: #1e3ce1;">🧩 Files and Runtime</span>
+## <span style="color: #1e3ce1;">Files and Runtime</span>
 
 - `data/locales.lua` defines chat and welcome text.
 - `data/core.lua` registers the sound set, events, saved settings, and `/sthlu` command.
@@ -95,7 +95,7 @@ At addon load, STHLU initializes its RGX-Framework sound handle. At login it dis
 
 ***
 
-## <span style="color: #1e3ce1;">🛠️ Troubleshooting</span>
+## <span style="color: #1e3ce1;">Troubleshooting</span>
 
 - If WoW marks STHLU as missing a dependency, install or enable `RGX-Framework`.
 - If no custom sound plays, run `/sthlu test`, then `/sthlu enable` and select a variant again.
@@ -106,7 +106,7 @@ Because the standalone project is retired, migrate to BLU or BLU Classic when yo
 
 ***
 
-## <span style="color: #1e3ce1;">🔗 Project Links</span>
+## <span style="color: #1e3ce1;">Project Links</span>
 
 - [Repository](https://github.com/RGXMods/SonicTheHedgehogLevelUp)
 - [Releases](https://github.com/RGXMods/SonicTheHedgehogLevelUp/releases)
@@ -118,4 +118,4 @@ This repository is retained for existing users and historical context. Issue rep
 
 ***
 
-## <span style="color: #4ecdc4;">🌟 Thank you for choosing </span> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods! 🌟</span>
+## <span style="color: #4ecdc4;">Thank you for choosing </span> <span style="color: #8b4b5c;">R</span><span style="color: #8b4b5c;">G</span><span style="color: #8b4b5c;">X</span> <span style="color: #4ecdc4;">Mods! </span>
