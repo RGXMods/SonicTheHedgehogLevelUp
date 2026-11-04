@@ -1,5 +1,6 @@
 ﻿## Interface: 120105
 ## Version: 2.0.5
+## X-WoWI-ID: 26263
 ## Title:  |cff022cedSonic The Hedgehog|r Level Up|cff022ced!|r
 ## IconTexture: Interface\AddOns\SonicTheHedgehogLevelUp\media\icon.tga
 ## Author: DonnieDice
